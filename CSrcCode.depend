@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1660394214 source:d:\products\course\c\csrccode\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1660394209 source:d:\products\course\c\csrccode\test.c
+	<stdio.h>
+	<stdlib.h>
+
+1664097428 source:d:\products\course\src_code\c\csrccode\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1661482547 source:d:\products\course\src_code\c\csrccode\helloworld.c
+	<stdio.h>
+	<stdlib.h>
+
+1661482749 source:d:\products\course\src_code\c\csrccode\lecture(2)_scaninput.c
+
+1661574584 source:d:\products\course\src_code\c\csrccode\l1_helloworld.c
+
+1661572806 source:d:\products\course\src_code\c\csrccode\l2_scaninput.c
+
+1662177185 source:d:\products\course\src_code\c\csrccode\l3_variables.c
+
+1664096804 source:d:\products\course\src_code\c\csrccode\l4_datatypes.c
+	<stdio.h>
+
+1664097000 source:d:\products\course\src_code\c\csrccode\l5_typequalifiers.c
+
