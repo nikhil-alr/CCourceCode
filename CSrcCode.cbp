@@ -43,6 +43,12 @@
 		<Unit filename="L4_DataTypes.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="L5_TypeQualifiers.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="L6_Operator.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>

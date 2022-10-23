@@ -10,5 +10,13 @@ void main()
    //typeCast();
    //encode(97);
    //decode('a');
-   demoConst();
+   //constType();
+   //arithmeticOperator();
+   //logicalOperator();
+   //bitwiseOperator();
+   //elvisOperator();
+   //sizeOfOperator();
+   //starAndMemoryOperator();
+   //swapProgram();
+   ifElse();
 }
