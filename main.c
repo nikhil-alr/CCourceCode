@@ -18,5 +18,17 @@ void main()
    //sizeOfOperator();
    //starAndMemoryOperator();
    //swapProgram();
-   ifElse();
+     //tempConverter();
+     //ifElse();
+     //nestedIfElse();
+     //ifElseLadder();
+     //terneryCondition();
+     //switchStatment();
+     //nestedSwitchStatement();
+     //doWhileLoop();
+     //printf("Return%d",returnStatment());
+     //breakStatment();
+     //continueStatement();
+     gotoStatment();
+
 }

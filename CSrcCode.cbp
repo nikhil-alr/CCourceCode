@@ -49,6 +49,12 @@
 		<Unit filename="L6_Operator.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="L7_SelectionStatment.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="L8_IterationStatement.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>

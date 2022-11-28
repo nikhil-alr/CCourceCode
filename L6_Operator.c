@@ -159,3 +159,13 @@ printf("Id%d",emp.id);
 }
 
 
+void tempConverter()
+{
+float tempInFahrenheit;
+printf("Enter temp in Fahrenheit\n");
+scanf("%f",&tempInFahrenheit);
+float tempInCelcius = (tempInFahrenheit-32)/1.8;
+printf("Temp in Celsius%f",tempInCelcius);
+}
+
+
