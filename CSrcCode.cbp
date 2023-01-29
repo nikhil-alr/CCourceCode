@@ -31,6 +31,21 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="L10_ArrayAndString.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="L11_Pointers.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="L12_Functions.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="L13_Structure.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="L14_ConsoleInputOutput.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="L1_HelloWorld.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -53,6 +68,9 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="L8_IterationStatement.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="L9_JumpStatement.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="main.c">

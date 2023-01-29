@@ -7,9 +7,11 @@
 	<stdio.h>
 	<stdlib.h>
 
-1669567268 source:d:\products\course\src_code\c\csrccode\main.c
+1674965173 source:d:\products\course\src_code\c\csrccode\main.c
 	<stdio.h>
 	<stdlib.h>
+	<string.h>
+	<stdarg.h>
 
 1661482547 source:d:\products\course\src_code\c\csrccode\helloworld.c
 	<stdio.h>
@@ -34,5 +36,17 @@
 
 1669561458 source:d:\products\course\src_code\c\csrccode\l8_iterationstatement.c
 
-1669566310 source:d:\products\course\src_code\c\csrccode\l9_jumpstatement.c
+1669567517 source:d:\products\course\src_code\c\csrccode\l9_jumpstatement.c
+
+1670666337 source:d:\products\course\src_code\c\csrccode\l10_arrayandstring.c
+
+1671966716 source:d:\products\course\src_code\c\csrccode\l11_pointers.c
+
+1673193188 source:d:\products\course\src_code\c\csrccode\l12_functions.c
+
+1674316778 source:d:\products\course\src_code\c\csrccode\l13_structure.c
+
+1674965523 source:d:\products\course\src_code\c\csrccode\l14_consoleinputoutput.c
+	<stdlib.h>
+	<stdio.h>
 
