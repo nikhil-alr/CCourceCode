@@ -46,6 +46,9 @@
 		<Unit filename="L14_ConsoleInputOutput.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="L15_FileInputOutput.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="L1_HelloWorld.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -76,6 +79,7 @@
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="test.txt" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

@@ -7,7 +7,7 @@
 	<stdio.h>
 	<stdlib.h>
 
-1674965173 source:d:\products\course\src_code\c\csrccode\main.c
+1679282697 source:d:\products\course\src_code\c\csrccode\main.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
@@ -46,7 +46,13 @@
 
 1674316778 source:d:\products\course\src_code\c\csrccode\l13_structure.c
 
-1674965523 source:d:\products\course\src_code\c\csrccode\l14_consoleinputoutput.c
+1674965662 source:d:\products\course\src_code\c\csrccode\l14_consoleinputoutput.c
 	<stdlib.h>
 	<stdio.h>
+
+1679802816 source:d:\products\course\src_code\c\csrccode\l15_fileinputoutput.c
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
 

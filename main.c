@@ -75,7 +75,13 @@ void main(int argc,char *argv[])
       //readAndWriteStringDemo();
       //recordCreation();
       //demoPrintfFormatter();
-      demoScanfFormatter();
+      //demoScanfFormatter();
+      //openAndCloseFile();
+       //readFileStream();
+       //writeData();
+       //skipContent();
+       //removeContent();
+       rewindContent();
 }
 
 
