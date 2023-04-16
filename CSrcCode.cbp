@@ -31,6 +31,9 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="FileUtility.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="L10_ArrayAndString.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -47,6 +50,10 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="L15_FileInputOutput.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="L16_Preprocessors" />
+		<Unit filename="L16_Preprocessors.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="L1_HelloWorld.c">
@@ -74,6 +81,18 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="L9_JumpStatement.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="L_17Debug.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="LinkedList.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Queue.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Stack.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="main.c">

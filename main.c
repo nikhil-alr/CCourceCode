@@ -81,7 +81,13 @@ void main(int argc,char *argv[])
        //writeData();
        //skipContent();
        //removeContent();
-       rewindContent();
+       //rewindContent();
+       //preprocessorsDemo();
+       //stackDemo();
+       //demoOfQueue();
+       //linkedListDemo();
+       //demoFileUtility();
+       debugDemo();
 }
 
 

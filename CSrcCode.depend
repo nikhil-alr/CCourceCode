@@ -7,7 +7,7 @@
 	<stdio.h>
 	<stdlib.h>
 
-1679282697 source:d:\products\course\src_code\c\csrccode\main.c
+1681636581 source:d:\products\course\src_code\c\csrccode\main.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
@@ -50,9 +50,27 @@
 	<stdlib.h>
 	<stdio.h>
 
-1679802816 source:d:\products\course\src_code\c\csrccode\l15_fileinputoutput.c
+1679803188 source:d:\products\course\src_code\c\csrccode\l15_fileinputoutput.c
 	<stdlib.h>
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
+
+1680328895 source:d:\products\course\src_code\c\csrccode\l16_preprocessors.c
+
+1681635768 source:d:\products\course\src_code\c\csrccode\fileutility.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1681574312 source:d:\products\course\src_code\c\csrccode\linkedlist.c
+	<stdlib.h>
+
+1681485343 source:d:\products\course\src_code\c\csrccode\queue.c
+
+1681046475 source:d:\products\course\src_code\c\csrccode\stack_queue.c
+
+1681223870 source:d:\products\course\src_code\c\csrccode\stack.c
+
+1681637431 source:d:\products\course\src_code\c\csrccode\l_17debug.c
 
